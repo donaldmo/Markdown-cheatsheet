@@ -128,3 +128,21 @@ print("Hi there")
     - item 1 
     - item 2
    </details>
+
+## checkbox
+Here’s an example of how to use this syntax in a list of items:
+
+- [ ] Buy groceries
+- [x] Do laundry
+- [ ] Take out the trash
+Buy groceries
+Do laundry
+Take out the trash
+You can also use * [ ] or * [x]
+
+* [ ] Buy groceries
+* [x] Do laundry
+* [ ] Take out the trash
+Buy groceries
+Do laundry
+Take out the trash
